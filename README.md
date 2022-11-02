@@ -1,7 +1,7 @@
 # projeto-cordel
 Projeto do cordel de Milton Duarte, feito como um desafio do curso de HTML5 e CSS3 do CursoemVideo.
 
-Abrindo o site pelo link https://oi-lunaluz.github.io/projeto-cordel/ você consegue visualizar o efeito paralax nas imagens.
+Abrindo o site pelo link - https://oi-lunaluz.github.io/projeto-cordel/ - você consegue visualizar o efeito paralax nas imagens.
                
 
 
