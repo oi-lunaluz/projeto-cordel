@@ -1,3 +1,4 @@
 # projeto-cordel
-Projeto do cordel de Milton Duarte
-![image](https://user-images.githubusercontent.com/110960550/199598609-8e643339-2c0d-409e-bc8e-0a9d9bb0026e.png)
+Projeto do cordel de Milton Duarte, feito como um desafio do curso de HTML5 e CSS3 do CursoemVideo.
+
+
